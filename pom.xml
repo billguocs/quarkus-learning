@@ -16,6 +16,7 @@
         <quarkus.platform.version>2.13.0.Final</quarkus.platform.version>
         <skipITs>true</skipITs>
         <surefire-plugin.version>3.0.0-M7</surefire-plugin.version>
+        <maven.home>F:/devEnv/apache-maven-3.8.5</maven.home>
     </properties>
     <dependencyManagement>
         <dependencies>
